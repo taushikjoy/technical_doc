@@ -1,3 +1,3 @@
 # technical_doc
 
-see the [roject live : 
+see the project live :  https://taushikjoy.github.io/technical_doc/
